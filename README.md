@@ -37,10 +37,6 @@ Tic Tac Strike AI is designed for fun and learning. It shows how classic game lo
 
 ---
 
-## 👨‍💻 Author
-
-Created by [Your Name]  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 
 
